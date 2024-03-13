@@ -3,4 +3,5 @@ This is the group repo of EECE571G final project
 
 # Build instruction
 'npm install'
+
 'npx hardhat compile'
